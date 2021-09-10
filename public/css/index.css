@@ -1,0 +1,176 @@
+* {
+    margin: 0;
+}
+header { 
+    margin-left: 20%;
+    margin-right: 20%;
+     box-shadow: 10px 10px 10px 10px #888888
+}
+
+.section-un {
+    height: 100px;
+    width: 100%;
+    background: black;
+    display: flex;
+    justify-content: flex-end;
+
+    ;
+}
+
+img {
+    height: 50px;
+    width: 50px;
+
+}
+
+a {
+    text-decoration: none;
+    list-style-type: none;
+    color: white;
+    font-size: 11px;
+    margin-right: 20px;
+}
+
+.nav-un {
+    display: flex;
+    justify-content: flex-end;
+
+}
+
+.icon-gauche {
+    position: absolute;
+    left: 20% ;
+    top: 20px
+    
+}
+
+#logo-gauche {
+    height: auto ; 
+    width: auto;
+  
+}
+
+#logo-package {
+    height: 150px;
+    width: auto;
+    margin-left: 20%;
+}
+
+.part-2 {
+    background-color: rgb(50, 77, 50);
+    height: 250px;
+    display: flex;
+    align-items: center;
+}
+
+#prems {
+    font-size: 50px;
+    color: white;
+    margin-left: 20%;
+}
+.mes-titre { 
+    display: flex;
+    justify-content: center;
+    margin : 10px ;
+     flex: 1;
+}
+
+.para-eclosion  { 
+    flex: 2;
+}
+.titre-eclosion {
+    background: rgb(50, 77, 50);
+    color: white;
+    margin-top: 20px;
+    font-size: 70px; 
+    padding-left: 50px; 
+    padding-right : 30px
+
+
+}
+
+.eclosion {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#image-eclosion {
+    height: 200px;
+    width: auto;
+    margin-right: 20%;
+}
+.section-quatre {
+    background-color: burlywood;
+    height: 250px;
+    margin-top: 50px;
+}
+
+.quatre-logo {
+    display: flex;
+    justify-content: space-around;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+;.quatre-logo li {
+   margin-left: 10%;
+   margin-right: 10%;
+}
+.quatre-logo a {
+    font-size: 15px;
+  
+}
+.contact-logo { 
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+.quatre-logo li { 
+    list-style-type: none;
+    margin-top: 30px;
+}
+.contact-logo li { 
+    list-style-type : none
+    ;
+}
+
+.a-black  { 
+color: black;
+text-align: center;
+font-size: 15px;
+margin-left: 20%;
+}
+#section-cinq { 
+    height: 150px;
+}
+footer {
+    background: black ; 
+    display: flex ; 
+    justify-content: space-around;
+height: 150px
+ 
+    ;
+}
+footer  p { 
+    color: white ; 
+    font-size : 15px; 
+    text-align: center;
+    margin-left: 50%;
+}
+.footer{  
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%); 
+   
+}
+.footer li { 
+    list-style-type: none;
+}
+.footer  img { 
+    height: 70px;
+     width: auto;
+}
+
+
